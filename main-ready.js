@@ -145,7 +145,7 @@ UI_ChannelCache = 1;		// caching script emotes, additional media database and de
 
 Favicon_URL = 'https://i.imgur.com/cJf680K.png';
 
-MiniLogo_URL = 'https://i.imgur.com/cJf680K.png';
+MiniLogo_URL = '';
 
 ChannelName_Caption = 'OrangNitro';
 
@@ -161,7 +161,7 @@ AttentionBar_URL = '';
 
 ChannelAnnouncement_Title = 'Administration Message';
 
-TitleIcon_URL = 'https://i.imgur.com/cJf680K.png';
+TitleIcon_URL = '';
 
 TitleBarDescription_Caption = 'Now Playing:';
 
