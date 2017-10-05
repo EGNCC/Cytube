@@ -83,7 +83,7 @@ UI_ChannelAnnouncement = 0;	// [&] additional custom channel announcement
 UI_FullTitleBar = 1;		// full-width video title bar
 UI_ProgressBar = 1;		// YouTube/Dailymotion progress bar
 				// [ REQUIRE: UI_FullTitleBar enabled ]
-UI_TitleIcon = 1;		// [&] full-width title bar icon
+UI_TitleIcon = 0;		// [&] full-width title bar icon
 				// [ REQUIRE: UI_FullTitleBar enabled ]
 UI_TitleBarDescription = 1;	// [&] custom title bar description (default "Currently Playing:")
 UI_JoinText = 1;		// [&] chat message after user joining
@@ -145,7 +145,7 @@ UI_ChannelCache = 1;		// caching script emotes, additional media database and de
 
 Favicon_URL = 'https://i.imgur.com/cJf680K.png';
 
-MiniLogo_URL = '';
+MiniLogo_URL = 'https://i.imgur.com/cJf680K.png';
 
 ChannelName_Caption = 'OrangNitro';
 
@@ -161,7 +161,7 @@ AttentionBar_URL = '';
 
 ChannelAnnouncement_Title = 'Administration Message';
 
-TitleIcon_URL = '';
+TitleIcon_URL = 'https://i.imgur.com/cJf680K.png';
 
 TitleBarDescription_Caption = 'Now Playing:';
 
