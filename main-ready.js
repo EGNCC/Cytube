@@ -143,11 +143,11 @@ UI_ChannelCache = 1;		// caching script emotes, additional media database and de
 
 	/* -- single variables -- */
 
-Favicon_URL = 'https://dl.dropboxusercontent.com/s/xgefazzyhs8xncp/icon.png';
+Favicon_URL = 'https://i.imgur.com/cJf680K.png';
 
-MiniLogo_URL = 'https://dl.dropboxusercontent.com/s/xgefazzyhs8xncp/icon.png';
+MiniLogo_URL = 'https://i.imgur.com/cJf680K.png';
 
-ChannelName_Caption = 'CyTube Plus';
+ChannelName_Caption = 'OrangNitro';
 
 HeaderDropMenu_Title = 'Synch';
 
@@ -161,7 +161,7 @@ AttentionBar_URL = '';
 
 ChannelAnnouncement_Title = 'Administration Message';
 
-TitleIcon_URL = 'https://dl.dropboxusercontent.com/s/xgefazzyhs8xncp/icon.png';
+TitleIcon_URL = 'https://i.imgur.com/cJf680K.png';
 
 TitleBarDescription_Caption = 'Now Playing:';
 
