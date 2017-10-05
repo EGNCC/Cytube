@@ -69,7 +69,7 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 // If you need more explanations, go to https://github.com/zimny-lech/CyTube-Plus/wiki/FAQ
 
 UI_DefaultSynchtube = 1;	// default old Synchtube layout (player and playlist on the left)
-UI_Favicon = 0;			// [&] channel favicon
+UI_Favicon = 1;			// [&] channel favicon
 UI_MiniLogo = 0;		// [&] small channel logo/avatar in the top navbar
 UI_ChannelName = 1;		// [&] channel custom brand name
 UI_HeaderDropMenu = 1;		// [&] additional header dropdown menu
@@ -83,7 +83,7 @@ UI_ChannelAnnouncement = 0;	// [&] additional custom channel announcement
 UI_FullTitleBar = 1;		// full-width video title bar
 UI_ProgressBar = 1;		// YouTube/Dailymotion progress bar
 				// [ REQUIRE: UI_FullTitleBar enabled ]
-UI_TitleIcon = 0;		// [&] full-width title bar icon
+UI_TitleIcon = 1;		// [&] full-width title bar icon
 				// [ REQUIRE: UI_FullTitleBar enabled ]
 UI_TitleBarDescription = 1;	// [&] custom title bar description (default "Currently Playing:")
 UI_JoinText = 1;		// [&] chat message after user joining
