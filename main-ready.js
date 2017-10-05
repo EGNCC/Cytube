@@ -69,8 +69,8 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 // If you need more explanations, go to https://github.com/zimny-lech/CyTube-Plus/wiki/FAQ
 
 UI_DefaultSynchtube = 1;	// default old Synchtube layout (player and playlist on the left)
-UI_Favicon = 1;			// [&] channel favicon
-UI_MiniLogo = 1;		// [&] small channel logo/avatar in the top navbar
+UI_Favicon = 0;			// [&] channel favicon
+UI_MiniLogo = 0;		// [&] small channel logo/avatar in the top navbar
 UI_ChannelName = 1;		// [&] channel custom brand name
 UI_HeaderDropMenu = 1;		// [&] additional header dropdown menu
 UI_RemoveLayoutMenu = 1;	// removing 'Layout' menu from the header
